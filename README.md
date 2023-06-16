@@ -1,5 +1,5 @@
 # Clustering-of-Loan-Applicants---ML
-This is a small project of mine were I clustered Loan applicants based on several features<br><br>
+This is a small and basic project of mine were I clustered Loan applicants based on several features<br><br>
 
 <h3>Problem Statement</h3><br><br>
 
